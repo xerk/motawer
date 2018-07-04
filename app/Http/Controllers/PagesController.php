@@ -18,7 +18,7 @@ class PagesController extends Controller
     public function about() {
         return view("about", compact('name'));
     }
-
+    
     public function proLang() {
         return view("proLanguage");
     }
