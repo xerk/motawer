@@ -1,0 +1,17 @@
+/*
+** Font Family
+**
+*/
+body {
+    font-family: 'Janna LT Regular', 'cairo', sans-serif;
+}
+
+/*
+** Page Motaba
+** typing text
+** wesa
+*/
+
+.typing-text {
+    font-size: 30px;
+}
