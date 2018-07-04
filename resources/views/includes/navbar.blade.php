@@ -83,7 +83,7 @@
                         </a>
                         <ul class="dropdown">
                             <li>
-                                <a class="nk-item-descr" href="{{ url('motabap') }}">
+                                <a class="nk-item-descr" href="{{ url('motaba') }}">
                                     مُتابع
                                 </a>
                             </li>
